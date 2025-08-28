@@ -18,16 +18,16 @@ span {
   display: inline-block;
 }
 
-#orange {
+#grey {
   background: orange;
 }
 
 #white {
   background: white;
 }
-#green {                  
+#blue {
   background: green;
 }
-#blue {
+#yellow {
   background: blue;
 }
