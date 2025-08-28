@@ -17,7 +17,5 @@ if (e.target.id === 'green'){
 if (e.target.id === 'blue'){
   body.style.background = e.target.id;
 }
-
 })
-
 })
